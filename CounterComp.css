@@ -1,0 +1,19 @@
+.Comp{
+    border: solid 3px black;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    color:blue;
+    background-color: grey;
+}
+button{
+    width: 200px;
+    margin: auto;
+    margin-top:32px;
+    color: crimson;
+    
+}
+
